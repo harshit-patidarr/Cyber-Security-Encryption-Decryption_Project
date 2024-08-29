@@ -107,7 +107,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions, suggestions, or issues, please contact the project maintainer at pavanpvnpavan20gmail.com.
+For questions, suggestions, or issues, please contact the project maintainer at anuragpatidar698@gmail.com.
 
 ---
 
